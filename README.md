@@ -5,7 +5,7 @@
 |---|---|---|
 | RamaDeepak | 2025AD05068 | Machine Learning |
 
-**Live Link:** <!-- TODO: paste Streamlit app URL after deploying -->
+**Live Link:** https://telco-churn-ml-ecbf4eal4vgsh3xhzeuxqt.streamlit.app/
 
 ## A. Problem Statement
 **Objective:** Predict whether a telecom customer will churn (`Churn = Yes` vs `No`)
@@ -39,7 +39,7 @@ contract upgrades, or support outreach before the customer actually leaves.
 | Services Subscribed | `PhoneService`, `MultipleLines`, `InternetService`, `OnlineSecurity`, `OnlineBackup`, `DeviceProtection`, `TechSupport`, `StreamingTV`, `StreamingMovies` | Which add-on services the customer has active |
 
 ## C. GitHub Repository Link
-<!-- TODO: paste your OWN repo URL, e.g. https://github.com/<you>/telco-churn-ml -->
+https://github.com/SKPrince255/telco-churn-ml
 
 ## D. Models Used
 Five classical supervised classifiers are benchmarked on an identical 80/20
@@ -127,7 +127,3 @@ pip install -r requirements.txt
 python train_models.py     # trains all 5 models, saves them + comparison_table.csv + test_data.csv
 streamlit run app.py       # launches the demo app
 ```
-# telco-churn-ml
-# telco-churn-ml
-# telco-churn-ml
-# telco-churn-ml
